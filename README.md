@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vador92
+- 👋 Hi, I’m Varun
 - 👀 I’m interested in game development, software development, and found new interest towards ios app development
 - 🌱 I’m currently learning C in computer Architecture and Linear Algebra
 - 💞️ I’m looking to collaborate on start up projects with teams that also have a similar skill set as me, in hopes to help each other improve our knowledge and ability

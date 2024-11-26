@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Varun
-- 👀 I’m interested in game development, software development/engineering, and found new interest towards ios app development
-- 🌱 I’m currently learning Design and Analysis of Computer Algorithms and also Principles of Programming.
-- 💞️ I’m looking to collaborate on start up projects with teams that also have a similar skill set as me, in hopes to help each other improve our knowledge and ability
+- 👋 Hi, I’m Varun Doreswamy
+- I’m interested in game development, software development/engineering, and found new interest towards ios app development
+- I’m looking to collaborate on start up projects with teams that also have a similar skill set as me, in hopes to help each other improve our knowledge and ability
 - 📫 How to reach me: email: varundoreswamy@outlook.com
 
 <!---
